@@ -1,5 +1,5 @@
 English | Vietnamese
-:--------:|:------------:
+------|------------
 Ohi. | *®- Hey.*
 Non riuscivo a stacca' oggi. | *®Work was so long today.*
 Che fai, non ti spogli? | *®You don't feel like swimming?*
